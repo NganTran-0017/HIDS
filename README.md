@@ -1,4 +1,4 @@
-Abstract:
+**Abstract:**
 
 The main goal of this research is to overcome the challenges in intrusion based cyber security systems and providing the solutions using current big data and machine learning techniques. Our host-based intrusion system monitors the system during normal usage as well as malicious activities  is capable of distinguishing normal usage from abnormal activitie; therefore, prevent imminent intrusions from happening. 
 
